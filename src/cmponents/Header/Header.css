@@ -1,0 +1,34 @@
+header {
+    display: flex;
+    position: fixed;
+    margin: 10px;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: white;
+    z-index: 1;
+}
+
+.logo {
+    margin: 10px 30px;
+    display: inline-block;
+}
+
+.shopingCart {
+    margin: 10px 30px;
+}
+
+.line {
+    background-color: black;
+    width: 3px;
+}
+
+.shopingCart a {
+    text-decoration: none;
+    color: blue;
+
+}
+
+.logo a {
+    color: blue;
+}
