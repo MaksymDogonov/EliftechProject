@@ -1,6 +1,5 @@
 header {
     display: flex;
-    position: fixed;
     margin: 10px;
     top: 0;
     left: 0;
@@ -14,7 +13,7 @@ header {
     display: inline-block;
 }
 
-.shopingCart {
+.shoppingCart {
     margin: 10px 30px;
 }
 
@@ -23,7 +22,7 @@ header {
     width: 3px;
 }
 
-.shopingCart a {
+.shoppingCart a {
     text-decoration: none;
     color: blue;
 
