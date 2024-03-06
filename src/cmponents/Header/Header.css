@@ -13,6 +13,9 @@ header {
     display: inline-block;
 }
 
+.logo a {
+}
+
 .shoppingCart {
     margin: 10px 30px;
 }
@@ -23,11 +26,14 @@ header {
 }
 
 .shoppingCart a {
-    text-decoration: none;
     color: blue;
 
 }
 
 .logo a {
     color: blue;
+}
+
+.selected {
+    text-decoration: none;
 }
